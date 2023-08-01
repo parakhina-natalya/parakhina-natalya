@@ -10,9 +10,9 @@
 ![react](https://i.postimg.cc/qqPhrkR0/react.png "React") 
 ![git](https://i.postimg.cc/Gm0Gwj8Y/git.png "Git") 
 
-![mongodb](https://i.postimg.cc/Zq4N0KL5/mongodb.png "Mongodb") 
 ![node](https://i.postimg.cc/76QJB1r5/node.png "Node js") 
-![express](https://i.postimg.cc/59R8pJfs/express.png "Express js")
+![express](https://i.postimg.cc/59R8pJfs/express.png "Express js") <br>
+![mongodb](https://i.postimg.cc/Zq4N0KL5/mongodb.png "Mongodb") 
 
 
 #### А так же
@@ -23,10 +23,15 @@
 ![adobe-lightroom](https://i.postimg.cc/wjcyKYd8/adobe-lightroom.png "Adobe Lightroom") 
 ![adobe-illustrator](https://i.postimg.cc/fytt13MB/adobe-illustrator.png "Adobe Illustrator") 
 
+<br>
+
+> А еще я вожу мотоцикл, хочу жить и работать вдали от городской суеты, там, где практически не заканчивается мотосезон, поэтому ищу удаленную работу.
+
+<br>
 
 ## Контакты
 ![whatsapp](https://i.postimg.cc/h467T00w/whatsapp.png) +7 (967)130-78-83 <br>
 ![telegram](https://i.postimg.cc/VLt0RbGN/telegram.png) @MrGaunt <br>
 ![email](https://i.postimg.cc/pr48dfsw/emal.png) mraksovich@gmail.com
 
-> А еще я вожу мотоцикл, много читаю и хочу жить и работать вдали от городской суеты, поэтому ищу удаленную работу.
+
