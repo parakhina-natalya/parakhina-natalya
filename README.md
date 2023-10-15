@@ -38,7 +38,7 @@
 
 ## Контакты
 ![whatsapp](https://i.postimg.cc/h467T00w/whatsapp.png) +7 (967)130-78-83 <br>
-![telegram](https://i.postimg.cc/VLt0RbGN/telegram.png) @MrGaunt <br>
+![telegram](https://i.postimg.cc/VLt0RbGN/telegram.png) @charassi <br>
 ![email](https://i.postimg.cc/pr48dfsw/emal.png) mraksovich@gmail.com
 
 
